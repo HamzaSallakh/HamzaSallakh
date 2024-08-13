@@ -1,11 +1,2 @@
-- 👋 Hi, I’m @HamzaSallakh
-- 👀 I’m interested in web applications (asp.net)
-- 🌱 I’m currently learning (asp.net)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-HamzaSallakh/HamzaSallakh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+Hamza Sallakh
+I am a Software Development Engineer with a strong focus on web applications, particularly using ASP.NET. I have a passion for competitive programming and excel in problem-solving. Currently, I am expanding my expertise in ASP.NET and continually enhancing my software development skills. I am open to collaborating on innovative projects and always eager to connect with like-minded professionals.
