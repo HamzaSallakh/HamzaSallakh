@@ -1,2 +1,1 @@
-Hamza Sallakh
-I am a Software Development Engineer with a strong focus on web applications, particularly using ASP.NET. I have a passion for competitive programming and excel in problem-solving. Currently, I am expanding my expertise in ASP.NET and continually enhancing my software development skills. I am open to collaborating on innovative projects and always eager to connect with like-minded professionals.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Hamza+Sallakh%2C+;a+Software+Development+Engineer(SDEI)+;specializing+in+ASP.NET+Core+and+ABP.IO;Always+eager+to+tackle+new+challenges+and+continuously+improve+my+skills)](https://git.io/typing-svg)
